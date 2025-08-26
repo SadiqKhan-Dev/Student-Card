@@ -128,7 +128,7 @@ export default function IDCard() {
           {/* student id card image */}
           <div className="w-1/3 text-center relative z-10 ">
             <Image
-              src="/images/card.PNG"
+              src="/images/profile.jpg"
               alt="background image"
               width={800}
               height={800}
